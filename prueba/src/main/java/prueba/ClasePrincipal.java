@@ -6,7 +6,7 @@ public class ClasePrincipal {
     private static  Logger miLogConsola= LogManager.getLogger("ERROR");
     
     public static void main(String[] args) {
-        System.out.println("hola 1");
+        System.out.println("hola ");
         miLogEnFich.info("Errores informativo  de clase principal");
         miLogEnFich.error("Errores grave de clase principal");
         miLogEnFich.debug("Errores grave de clase principal");
